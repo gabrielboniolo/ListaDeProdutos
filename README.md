@@ -1,2 +1,2 @@
 # ListaDeProdutos
-Exercício tem como prática os conceitos de herança, polimorfismo e listas.
+O exercício tem como prática os conceitos de herança, polimorfismo e listas.
